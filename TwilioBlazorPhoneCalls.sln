@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwilioBlazorPhonecalls.Server", "TwilioBlazorPhonecalls.Server\TwilioBlazorPhonecalls.Server.csproj", "{4CA5C4CE-6B40-4BFB-95B6-39A9FF8151F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwilioBlazorPhonecalls.Client", "TwilioBlazorPhonecalls.Client\TwilioBlazorPhonecalls.Client.csproj", "{9DEF4078-42AE-407A-84B8-2BDFFBFE699D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA5C4CE-6B40-4BFB-95B6-39A9FF8151F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA5C4CE-6B40-4BFB-95B6-39A9FF8151F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA5C4CE-6B40-4BFB-95B6-39A9FF8151F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA5C4CE-6B40-4BFB-95B6-39A9FF8151F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEF4078-42AE-407A-84B8-2BDFFBFE699D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEF4078-42AE-407A-84B8-2BDFFBFE699D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEF4078-42AE-407A-84B8-2BDFFBFE699D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEF4078-42AE-407A-84B8-2BDFFBFE699D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B548F7-2203-4E7E-9BA9-C4580B9B5C6E}
+	EndGlobalSection
+EndGlobal

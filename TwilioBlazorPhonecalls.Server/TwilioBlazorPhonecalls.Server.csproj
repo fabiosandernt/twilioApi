@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>cfb11ce6-c0e0-411c-8388-969604936842</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="Twilio" Version="6.5.0" />
+    <PackageReference Include="Twilio.AspNet.Core" Version="5.77.0" />
+  </ItemGroup>
+
+</Project>
